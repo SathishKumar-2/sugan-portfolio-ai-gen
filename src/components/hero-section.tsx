@@ -41,11 +41,11 @@ export function HeroSection() {
           </h1>
 
           <p className="text-xl md:text-2xl text-muted-foreground mb-4">
-            Software Engineer | AI & IoT Innovator
+            Software Development Instructor | AI & IoT Innovator
           </p>
 
           <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
-            Building intelligent systems to simplify real-world problems through innovative technology solutions
+            Empowering the next generation of developers while building intelligent systems to solve real-world problems
           </p>
 
           {/* CTA Buttons */}
