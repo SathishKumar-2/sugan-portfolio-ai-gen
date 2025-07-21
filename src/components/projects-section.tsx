@@ -10,8 +10,8 @@ export function ProjectsSection() {
       title: "Hand Gesture Recognition Device for Physically Challenged",
       description: "Developed an IoT device using OpenCV, NumPy, and MediaPipe that interprets hand gestures in real-time to assist the hearing-impaired. Features computer vision algorithms for accurate gesture detection and translation.",
       technologies: ["Python", "OpenCV", "MediaPipe", "NumPy", "IoT", "Computer Vision"],
-      githubUrl: "#",
-      liveUrl: "#",
+      githubUrl: "https://github.com/Sugan2406/Sign-language-recognition-device-for-physically-challenged-people",
+      liveUrl: "https://github.com/Sugan2406/Sign-language-recognition-device-for-physically-challenged-people",
       category: "AI/ML",
       highlight: "Real-time Processing"
     },
@@ -19,8 +19,8 @@ export function ProjectsSection() {
       title: "Smart Anti-Fogging Helmet",
       description: "Built a helmet with integrated sensors and heating technology to prevent fog buildup, improving rider safety in poor visibility conditions. Includes patent filing for innovative safety features.",
       technologies: ["IoT", "Sensors", "Arduino", "C++", "Hardware Design"],
-      githubUrl: "#",
-      liveUrl: "#",
+      githubUrl: "https://github.com/Sugan2406/Smart-anti-fog-helmet",
+      liveUrl: "https://github.com/Sugan2406/Smart-anti-fog-helmet",
       category: "IoT",
       highlight: "Patent Filed"
     },
@@ -28,8 +28,8 @@ export function ProjectsSection() {
       title: "Voice Email App",
       description: "Mobile application allowing users to send and manage emails using voice commands. Eliminates the need for touch or mouse input, making email accessible for users with mobility challenges.",
       technologies: ["Android", "Java", "Speech Recognition", "Email API", "UI/UX"],
-      githubUrl: "#",
-      liveUrl: "#",
+      githubUrl: "https://github.com/Sugan2406/Voice-Based-email",
+      liveUrl: "https://github.com/Sugan2406/Voice-Based-email",
       category: "Mobile App",
       highlight: "Accessibility Focus"
     },
@@ -37,8 +37,8 @@ export function ProjectsSection() {
       title: "Customer Churn Prediction",
       description: "Built machine learning models using Random Forest, Log Rank Test, and Kaplan Meier Curve to predict customer churn probability and guide retention strategy for businesses.",
       technologies: ["Python", "Scikit-learn", "Pandas", "Matplotlib", "ML Algorithms"],
-      githubUrl: "#",
-      liveUrl: "#", 
+      githubUrl: "https://github.com/Sugan2406/customer-Churn-Prediction",
+      liveUrl: "https://github.com/Sugan2406/customer-Churn-Prediction", 
       category: "Data Science",
       highlight: "Business Impact"
     },
@@ -46,8 +46,8 @@ export function ProjectsSection() {
       title: "Automatic Following Shopping Trolley",
       description: "Raspberry Pi-powered trolley using gesture recognition, ultrasonic sensors, and servo motors for autonomous following. Features real-time audio feedback and intelligent obstacle avoidance.",
       technologies: ["Raspberry Pi", "Python", "Computer Vision", "Hardware", "Sensors"],
-      githubUrl: "#",
-      liveUrl: "#",
+      githubUrl: "https://github.com/Sugan2406",
+      liveUrl: "https://github.com/Sugan2406",
       category: "IoT",
       highlight: "IEEE Published"
     }
