@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from '@/components/ui/button';
 import { Github, Linkedin, Mail, Download, ChevronDown } from 'lucide-react';
-import profilePhoto from '@/assets/profile-photo.jpg';
+// Profile photo from uploaded image
 
 export function HeroSection() {
   const scrollToSection = (href: string) => {
@@ -29,7 +29,7 @@ export function HeroSection() {
           <div className="mb-8">
             <div className="w-32 h-32 mx-auto rounded-full glass-card p-1 animate-glow">
               <img
-                src={profilePhoto}
+                src="/lovable-uploads/c522ad24-a9b3-4cf8-8455-8e1f15fc24eb.png"
                 alt="Suganeshwaran M - Software Engineer"
                 className="w-full h-full rounded-full object-cover"
               />
