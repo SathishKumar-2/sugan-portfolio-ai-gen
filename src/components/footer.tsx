@@ -33,7 +33,7 @@ export function Footer() {
               <span className="text-white font-bold text-sm">S</span>
             </div>
             <span className="font-code text-lg font-semibold">
-              &lt;Suganeshwaran /&gt;
+              Suganeshwaran
             </span>
           </div>
 
