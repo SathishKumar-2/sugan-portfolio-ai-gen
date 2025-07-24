@@ -51,7 +51,7 @@ export function Navbar() {
               onClick={() => scrollToSection('#home')}
               className="text-xl font-bold font-code text-primary hover:text-accent transition-colors"
             >
-              &lt;Suganeshwaran /&gt;
+              Suganeshwaran
             </button>
           </div>
 
